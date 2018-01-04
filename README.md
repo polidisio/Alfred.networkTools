@@ -7,7 +7,6 @@ Usefull terminal commands for Troubleshooting network issues:
 - NSLOOKUP
 - NETSTAT 
 - IFCONFIG
-v.1.1 add:
 - Clean DNS Cache (notification done)
 - External Ip (notification, copy clipboard)
 - Internal Ip (notification, copy clipboard)
